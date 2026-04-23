@@ -1,5 +1,8 @@
 # DreamNest 隐私政策
 
+
+[English](./) | [简体中文](./privacy-policy.zh-Hans.html) | [繁體中文](./privacy-policy.zh-Hant.html) | [日本語](./privacy-policy.ja.html) | [한국어](./privacy-policy.ko.html)
+
 生效日期：2026 年 4 月 23 日
 
 DreamNest（以下简称“DreamNest”、“我们”或“本应用”）是一款睡前故事阅读应用，帮助用户发现、阅读和收藏故事。本隐私政策说明我们会收集哪些信息、如何使用这些信息，以及你拥有的选择权。

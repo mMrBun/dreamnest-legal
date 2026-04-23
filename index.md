@@ -1,3 +1,5 @@
+[English](./) | [简体中文](./privacy-policy.zh-Hans.html) | [繁體中文](./privacy-policy.zh-Hant.html) | [日本語](./privacy-policy.ja.html) | [한국어](./privacy-policy.ko.html)
+
 # DreamNest Privacy Policy
 
 Effective date: April 23, 2026
