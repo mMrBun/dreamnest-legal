@@ -147,8 +147,8 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 If you have questions or requests about this Privacy Policy or your data, contact us at:
 
-Developer: [Your developer name]
+Developer: [Hui Xu]
 
-Email: [your-contact-email@example.com]
+Email: [mr__bun@163.com]
 
 App: DreamNest
